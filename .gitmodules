@@ -8,3 +8,6 @@
 [submodule "surtvep"]
 	path = surtvep
 	url = https://github.com/um-kevinhe/surtvep
+[submodule "survkl"]
+	path = survkl
+	url = https://github.com/um-kevinhe/survkl
